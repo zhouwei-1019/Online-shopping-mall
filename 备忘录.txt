@@ -1,0 +1,4 @@
+启动项目：
+    1、.\venv\Scripts\activate             #激活pycharm自带的虚拟环境并进入
+
+    2、python .\manage.py runserver   #启动
